@@ -1,5 +1,6 @@
 @import url("anime.css");
 @import url("stories.css");
+@import url("motion.css");
 /* Muted ink palette: inspired by printed field guides, not neon sci-fi. */
 :root{--ink:#1e211d;--paper:#e7e0d2;--acid:#9aa86b;--coral:#a74c38;--blue:#a6b8b0;--line:rgba(30,33,29,.3)}
 .project-feature.moss{background:#a5ae86}.project-feature.rust{background:#ba6650}
