@@ -7,6 +7,6 @@ An original, cinematic portfolio for T Lalith Krishna — computational biologis
 ## Featured work
 
 - [ClarityFi](https://clarityfi-lk1511.base44.app) — personal finance and mindfulness platform
-- [ToxINsight](https://github.com/lalith747/ToxINsight) — snake venom protein research database
+- [ToxINsight](https://toxinsight.in) — live snake venom protein research database
 - [Protein Viz](https://protein-viz-new.onrender.com/) — interactive protein visualisation tool
 - [HireFlow AI](https://github.com/lalith747/HireFlow-AI_Hack-w-Hyd) — AI-assisted hiring workflow
