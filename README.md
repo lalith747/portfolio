@@ -10,4 +10,4 @@ An original, cinematic portfolio for T Lalith Krishna — computational biologis
 - [ToxINsight](https://toxinsight.in) — live snake venom protein research database
 - [Protein Viz](https://protein-viz-new.onrender.com/) — interactive protein visualisation tool
 - [HireFlow AI](https://github.com/lalith747/HireFlow-AI_Hack-w-Hyd) — AI-assisted hiring workflow
-- [WoundWatch](https://github.com/lalith747/woundwatch) — healthcare monitoring project
+- [WoundWatch](https://woundwatch-pied.vercel.app) — live healthcare monitoring project
